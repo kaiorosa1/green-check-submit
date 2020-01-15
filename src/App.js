@@ -1,16 +1,17 @@
 import React from 'react';
+import Navigation from './components/Navigation/Navigation';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <h1>Green Check Submit</h1>
-      {/* <Navigation />  */}
+      <Navigation /> 
       {/* <Logo />  */}
       {/* <SignIn />  */}
       {/* <Register />  */}
       {/* <Profile />  */}
       {/* <SubmitionComponent />  */}
+      <h1>Green Check Submit</h1>
     </div>
   );
 }
