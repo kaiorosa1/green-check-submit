@@ -1,10 +1,12 @@
 import React from 'react';
-
+import './Navigation.css';
 
 const Navigation = () =>{
     return (
-        <div>
-            <h1>Nav Component</h1>
+        <div className="nav-links">
+            <a href="#">Profile</a>
+            <a href="#">Register</a>
+            <a href="#">SignIn</a>
         </div>
     );
 }
