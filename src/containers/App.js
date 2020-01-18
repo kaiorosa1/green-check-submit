@@ -20,7 +20,7 @@ class App extends React.Component {
                 }
             },
             "size": {
-                "value": 3,
+                "value": 5,
                 "random": true,
                 "anim": {
                     "speed": 4,
