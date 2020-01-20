@@ -4,6 +4,7 @@ import Logo from '../components/Logo/Logo';
 import ExerciseSelector from '../components/ExerciseSelector/ExerciseSelector';
 import Form from '../components/Form/Form';
 import Particles from 'react-particles-js';
+import 'tachyons';
 import './App.css';
 
 class App extends React.Component {
