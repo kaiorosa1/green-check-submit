@@ -1,3 +1,6 @@
+.container{
+    display: flex;
+}
 .logo {
     text-align: left;
     padding: 15px;
